@@ -401,7 +401,7 @@ In ``config/packages/security.yaml``:
             acl:
                 connection: default
 
-- Install the ACL tables ``bin/console init:acl``
+- Install the ACL tables ``bin/console acl:init``
 
 - Create a new root user:
 
